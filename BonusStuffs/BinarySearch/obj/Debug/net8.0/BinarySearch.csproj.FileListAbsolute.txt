@@ -1,0 +1,15 @@
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/bin/Debug/net8.0/BinarySearch
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/bin/Debug/net8.0/BinarySearch.deps.json
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/bin/Debug/net8.0/BinarySearch.runtimeconfig.json
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/bin/Debug/net8.0/BinarySearch.dll
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/bin/Debug/net8.0/BinarySearch.pdb
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/obj/Debug/net8.0/BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/obj/Debug/net8.0/BinarySearch.AssemblyInfoInputs.cache
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/obj/Debug/net8.0/BinarySearch.AssemblyInfo.cs
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/obj/Debug/net8.0/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/obj/Debug/net8.0/BinarySearch.sourcelink.json
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/obj/Debug/net8.0/BinarySearch.dll
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/obj/Debug/net8.0/refint/BinarySearch.dll
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/obj/Debug/net8.0/BinarySearch.pdb
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/obj/Debug/net8.0/BinarySearch.genruntimeconfig.cache
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/BonusStuffs/BinarySearch/obj/Debug/net8.0/ref/BinarySearch.dll
