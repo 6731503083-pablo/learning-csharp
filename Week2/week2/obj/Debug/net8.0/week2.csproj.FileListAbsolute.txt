@@ -1,0 +1,15 @@
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/bin/Debug/net8.0/week2
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/bin/Debug/net8.0/week2.deps.json
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/bin/Debug/net8.0/week2.runtimeconfig.json
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/bin/Debug/net8.0/week2.dll
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/bin/Debug/net8.0/week2.pdb
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/obj/Debug/net8.0/week2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/obj/Debug/net8.0/week2.AssemblyInfoInputs.cache
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/obj/Debug/net8.0/week2.AssemblyInfo.cs
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/obj/Debug/net8.0/week2.csproj.CoreCompileInputs.cache
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/obj/Debug/net8.0/week2.sourcelink.json
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/obj/Debug/net8.0/week2.dll
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/obj/Debug/net8.0/refint/week2.dll
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/obj/Debug/net8.0/week2.pdb
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/obj/Debug/net8.0/week2.genruntimeconfig.cache
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/Week2/week2/obj/Debug/net8.0/ref/week2.dll
