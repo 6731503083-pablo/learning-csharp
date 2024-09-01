@@ -1,0 +1,15 @@
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/bin/Debug/net8.0/NuclearLaunchCode
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/bin/Debug/net8.0/NuclearLaunchCode.deps.json
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/bin/Debug/net8.0/NuclearLaunchCode.runtimeconfig.json
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/bin/Debug/net8.0/NuclearLaunchCode.dll
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/bin/Debug/net8.0/NuclearLaunchCode.pdb
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/obj/Debug/net8.0/NuclearLaunchCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/obj/Debug/net8.0/NuclearLaunchCode.AssemblyInfoInputs.cache
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/obj/Debug/net8.0/NuclearLaunchCode.AssemblyInfo.cs
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/obj/Debug/net8.0/NuclearLaunchCode.csproj.CoreCompileInputs.cache
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/obj/Debug/net8.0/NuclearLaunchCode.sourcelink.json
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/obj/Debug/net8.0/NuclearLaunchCode.dll
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/obj/Debug/net8.0/refint/NuclearLaunchCode.dll
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/obj/Debug/net8.0/NuclearLaunchCode.pdb
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/obj/Debug/net8.0/NuclearLaunchCode.genruntimeconfig.cache
+/Users/phyophyolay/Desktop/C#DevelopmentMFU/NuclearLaunchCode/obj/Debug/net8.0/ref/NuclearLaunchCode.dll
