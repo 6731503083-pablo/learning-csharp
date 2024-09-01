@@ -67,3 +67,5 @@ void PrintMessage(string message)
 }
 
 PrintMessage("Hello World");
+
+PrintMessage(Add(10, 20).ToString());
